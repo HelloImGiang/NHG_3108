@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\NetCore\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\NetCore\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "c:\\NetCore\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\NetCore\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\NetCore\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\NetCore\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "c:\\NetCore\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\NetCore\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\gokunnn\\.nuget\\packages\\",
-        "outputPath": "c:\\NetCore\\MvcMovie\\obj\\",
+        "outputPath": "C:\\NetCore\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

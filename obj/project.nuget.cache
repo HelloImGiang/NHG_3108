@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EU3jspuvLJPThzLUyCb7WnJ+ggar0pQ2GRC8oYl3WeK4G+BgcyZByMYjduqn+eJ++T5Zd7cTwEs+wvxSxRz2oA==",
+  "dgSpecHash": "g/9fRtLreCCkDJqrbDlznO9YKhQ8uxBIG35DegCWyE3LtmZ7XMJD+6m9SJZapj0FelIxHQY4/pZH+we05vIbhA==",
   "success": true,
-  "projectFilePath": "c:\\NetCore\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "C:\\NetCore\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
